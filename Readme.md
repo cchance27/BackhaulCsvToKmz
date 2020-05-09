@@ -8,7 +8,7 @@ This file generates a KMZ file to show wireless base station/site locations, alo
 ## CSV Input
 
 The input for the script expects 2 csv files. 
-> **sites.csv**: This file is a basic lost of sites and site locations
+> **sites.csv**: This file is a basic list of sites and site locations
 
 | Field Name | Description | Required |
 |----|----|----|
