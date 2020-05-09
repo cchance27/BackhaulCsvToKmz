@@ -69,7 +69,7 @@ $kml = @"
 	    		<styleUrl>#site-visible</styleUrl>
 	    	</Pair>
 	    </StyleMap>
-        <name>UTS-11GHz</name>
+        <name>Backhauls-11GHz</name>
         <Folder>
             <name>Sites</name>
             $(
