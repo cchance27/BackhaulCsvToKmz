@@ -1,4 +1,4 @@
-# generate-link-kmz
+# Backhaul Csv To Kmz
 
 This script was designed for internal use but as it seemed so helpful, I decided to share it
 
@@ -39,4 +39,4 @@ Execution of this script is super simple.
 * **Channel Sizes** - Currently only supports 40mhz and 120mhz channel sizes for line thickness
 * **XML Generation Improvement** - Don't like the way I'm doing the XML generation but it works for now and other ways are much more fussy.
 * **Error Checking** - Seriously haven't put any yet
-* **KMZ Compression** - LOL scripts called generate-link-kmz but i don't have it compressing the kml to kmz yet, minor but not done. 
+* **KMZ Compression** - Scripts called generate-link-kmz but i don't have it compressing the kml to kmz yet, minor but not done. 
